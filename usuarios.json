@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "admin",
+    "rol": "admin"
+  },
+  "usuario": {
+    "password": "usuario",
+    "rol": "user"
+  }
+}
